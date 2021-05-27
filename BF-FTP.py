@@ -2,7 +2,7 @@
 import socket,sys,re
 
 if len(sys.argv) != 3:
-	print "Modo de uso python lonftp.py 127.0.0.1 usuario"
+	print "Modo de uso python BF-FTP.py 127.0.0.1 usuario"
 	sys.exit()
 
 target  = sys.argv[1]
