@@ -3,6 +3,7 @@
 This code is a Brute Force FTP script
 
 How to use: python BF-FTP.py IP USER
+            
             python BF-FTP.py 127.0.0.1 root
 
 comments:
